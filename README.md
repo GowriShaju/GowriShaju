@@ -89,9 +89,9 @@ Probability | Hypothesis Testing | Correlation Analysis
 
 ## 📊 GitHub Stats  
 
-![Gowri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![Gowri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GowriShajuE&show_icons=true&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=GowriShaju&theme=radical)  
 
 ---
 
