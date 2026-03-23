@@ -76,14 +76,23 @@ Probability | Hypothesis Testing | Correlation Analysis
 
 ---
 
-## 📫 Let's Connect  
+## 🌐 Connect With Me 
+India | 💼 Open to Opportunities
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gowrishaju/) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/GowriShaju) 
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:shajugowry1482@gmail.com) 
 
-📍 Kerala, India  
-💼 Open to Opportunities  
+--- 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/)  
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)  
+## 💻 Tech Stack 
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python) 
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql) 
+![NumPy](https://img.shields.io/badge/NumPy-darkblue?style=for-the-badge&logo=numpy) 
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas) 
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-grey?style=for-the-badge) 
+![Seaborn](https://img.shields.io/badge/Seaborn-lightblue?style=for-the-badge) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
 
 ---
 
