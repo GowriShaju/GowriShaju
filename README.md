@@ -4,7 +4,7 @@
 
 ---
 
-## 🔥 About Me  
+##  About Me  
 
 I am a Mathematics postgraduate with a Minor in Data Science, passionate about building intelligent systems using machine learning and data-driven approaches.  
 
