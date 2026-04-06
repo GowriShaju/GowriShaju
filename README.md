@@ -99,8 +99,7 @@ India | 💼 Open to Opportunities
 
 ## 📊 GitHub Stats  
 
-![Gowri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GowriShaju&show_icons=true&theme=radical)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GowriShaju&show_icons=true&theme=radical&cache_seconds=86400)
 ---
 
 ⭐ *"Turning data into meaningful insights and intelligent solutions"*  
