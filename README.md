@@ -99,7 +99,7 @@ India | 💼 Open to Opportunities
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GowriShaju&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GowriShaju&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=GowriShaju&theme=radical)
 ---
 
